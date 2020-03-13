@@ -92,3 +92,8 @@ flutter emulators --launch apple_ios_simulator
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcsa4ovms2j30u01hw0tt.jpg)
 
+## 检查工具链
+
+运行`flutter doctor`，会显示当前环境中是否存在问题。 `doctor`检测到问题之后，会回显出解决方案。
+
+按照提示修复错误即可
