@@ -98,3 +98,5 @@ flutter emulators --launch apple_ios_simulator
 运行`flutter doctor`，会显示当前环境中是否存在问题。 `doctor`检测到问题之后，会回显出解决方案。
 
 按照提示修复错误即可
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcsb0z9koyj30mk06qq42.jpg)
