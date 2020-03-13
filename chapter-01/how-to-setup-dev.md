@@ -6,6 +6,7 @@
 * 3. [配置Emulators](#Emulators)
 	* 3.1. [修复Mac错误](#Mac)
 	* 3.2. [执行模拟器](#-1)
+* 4. [检查工具链](#-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -92,7 +93,7 @@ flutter emulators --launch apple_ios_simulator
 
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcsa4ovms2j30u01hw0tt.jpg)
 
-## 检查工具链
+##  4. <a name='-1'></a>检查工具链
 
 运行`flutter doctor`，会显示当前环境中是否存在问题。 `doctor`检测到问题之后，会回显出解决方案。
 
